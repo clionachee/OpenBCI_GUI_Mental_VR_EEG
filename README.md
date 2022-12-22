@@ -1,5 +1,10 @@
 # The OpenBCI GUI
 
+
+'
+python mentalvreeg.py install
+'
+
 <p align="center">
   <img alt="banner" src="/images/GUI-V4-Screenshot.jpg/" width="600">
 </p>
