@@ -5,6 +5,8 @@
 C:\Users\Acer\Documents\FYP Coding for Brainflow\mentalvreeg.py
 python mentalvreeg.py install
 '
+cd C:\Users\Acer\Documents\FYP Coding for Brainflow\mentalvreeg.py
+python mentalvreeg.py install
 
 <p align="center">
   <img alt="banner" src="/images/GUI-V4-Screenshot.jpg/" width="600">
