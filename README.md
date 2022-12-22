@@ -2,6 +2,7 @@
 
 
 '
+C:\Users\Acer\Documents\FYP Coding for Brainflow\mentalvreeg.py
 python mentalvreeg.py install
 '
 
